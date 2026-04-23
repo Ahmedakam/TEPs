@@ -275,7 +275,7 @@ Tags were calculated via tlbc as follows (request_flag is equal to `0x7fffffff` 
 `crc32('report_static_data query_id:uint64 index:uint256 collection:MsgAddress = InternalMsgBody') = 0xb771735 | 0x80000000 = 0x8b771735`
 
 # Acknowledgements
-We are grateful to the [Tonwhales](https://github.com/tonwhales) developers for collaborating on the current draft of the standard 🤝
+We are grateful to the [Tonwhales](https://ton.org/_next/static/media/duck.d936efd9.png) developers for collaborating on the current draft of the standard 🤝
 
 # Changelog
 [01 Feb 2022](https://github.com/ton-blockchain/TIPs/issues/62#issuecomment-1027167743) 
